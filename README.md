@@ -6,6 +6,7 @@ My interest in data comes from a desire to make complex ideas easier to understa
 **Georgia State University**
 
 B.B.A. in Computer Information Systems
+
 Concentration: Data Analytics | Honors College | May 2026
 
 🔧 **Featured Projects**
