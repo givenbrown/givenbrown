@@ -4,6 +4,7 @@ My interest in data comes from a desire to make complex ideas easier to understa
 🎓 **Education**
 
 **Georgia State University**
+
 B.B.A. in Computer Information Systems
 Concentration: Data Analytics | Honors College | May 2026
 
@@ -28,6 +29,7 @@ Social Media Database Design:
 - Presented key takeaways through the database model to a diverse audience.
 
 📊 **Technical Skills**
+
 Python • SQL • MySQL • Data Analysis • Machine Learning • Relational Database Design • Data Modeling • Requirements Analysis • System Modeling
 
 🗒️ **Certifications**
