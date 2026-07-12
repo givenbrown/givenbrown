@@ -10,19 +10,19 @@ Concentration: Data Analytics | Honors College | May 2026
 
 🔧 **Featured Projects**
 
-Contract Value Dashboard:
+**Contract Value Dashboard:**
 
 - Collaborated with a five-person team to develop a Power BI dashboard analyzing contract value trends over time. 
 - Served as Requirements Lead by translating stakeholder needs into documented technical requirements.
 - Presented dashboard insights to technical and non-technical stakeholders to support decision-making.
 
-Wildfire Risk Modeling:
+**Wildfire Risk Modeling:**
 
 - Researched the application of survival analysis techniques to wildfire risk prediction.
 - Trained a Cox proportional hazards model to estimate wildfire spread risk across a 12–72 hour horizon.
 - Improved model performance through iterative feature selection and parameter adjustments.
 
-Social Media Database Design: 
+**Social Media Database Design:** 
 
 - Led a team in creating a relational database that modeled the data structure of a social media platform.
 - Translated core functionalities into documented technical requirements for the database.
