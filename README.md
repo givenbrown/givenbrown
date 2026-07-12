@@ -1,72 +1,42 @@
 ## :wave: Hi, I'm Given Brown!
-Aspiring Business Analyst with hands-on experience in developing technical solutions to business problems through database design, system modeling, and cross-functional collaboration.
+My interest in data comes from a desire to make complex ideas easier to understand. I enjoy approaching problems from both business and technical perspectives, uncovering insights that support informed decision-making. I'm passionate about transforming data into solutions that create meaningful impact.
 
-🎓 **B.B.A. in Computer Information Systems (Data Analytics Concentration)**
+🎓 **Education**
 
-Georgia State University | Honors College | GPA: 3.69 | Graduating May 2026
+**Georgia State University**
+B.B.A. in Computer Information Systems
+Concentration: Data Analytics | Honors College | May 2026
 
-💡 **Interests:**
+🔧 **Featured Projects**
 
-- Connecting business with data to tell meaningful stories
+Contract Value Dashboard:
 
-- Translating insights for diverse audiences
+- Collaborated with a five-person team to develop a Power BI dashboard analyzing contract value trends over time. 
+- Served as Requirements Lead by translating stakeholder needs into documented technical requirements.
+- Presented dashboard insights to technical and non-technical stakeholders to support decision-making.
 
-- Creating positive impact in communities
+Wildfire Risk Modeling:
 
-🧠 **Currently learning:**
+- Researched the application of survival analysis techniques to wildfire risk prediction.
+- Trained a Cox proportional hazards model to estimate wildfire spread risk across a 12–72 hour horizon.
+- Improved model performance through iterative feature selection and parameter adjustments.
 
-- Data visualization through Break Through Tech's Datathon and Women in Tech's Data Challenge
+Social Media Database Design: 
 
-- Advanced SQL for querying and analyzing relational databases 
+- Led a team in creating a relational database that modeled the data structure of a social media platform.
+- Translated core functionalities into documented technical requirements for the database.
+- Presented key takeaways through the database model to a diverse audience.
 
-🔧 **Technical Toolkit:**
+📊 **Technical Skills**
+Python • SQL • MySQL • Data Analysis • Machine Learning • Relational Database Design • Data Modeling • Requirements Analysis • System Modeling
 
-**Querying & Databases:**
-- SQL / MySQL
-- Relational Database Design
+🗒️ **Certifications**
 
-**Analysis & Documentation:**
-- System Modeling
-- Vision & Scope Documents
+- Microsoft Azure AI Fundamentals
+- Cornell University Machine Learning Foundations
+- Cisco Introduction to Data Science
 
-**Tools & Programming:**
-- Python
-- PowerPoint
-- Word 
-
-📊 **Projects:**
-
-**Systems Analysis - Customer Management System (CRM)**
-- Collaborated with a four-person team to develop the front-end of a CRM recommending makeup products for a diverse customer base 
-- Designed use case diagrams and user interface to align core functionalities with user needs 
-- Created a vision-scope document and delivered a PowerPoint presentation to communicate project findings
-
-**Database Management Systems - Social Media Platform**
-- Led a five-person team to design and implement a relational database for a social media platform
-- Wrote a detailed project report explaining database design and implementation process
-- Presented the full development lifecycle (requirements analysis, conceptual modeling, and SQL execution) via a PowerPoint to highlight key takeaways
-
-**AI Studio Fellow (Cambio Labs) - Grant Assistant Tool**
-- Collaborated with a 7-person team to develop a grant assistant tool, analyzing AI models to improve application drafting 
-- Integrated document reading and web scraping components to support generation of new applications
-- Created and delivered a slideshow to communicate findings to technical and non-technical stakeholders
-
-🤝 **Experience & Leadership:**
-
-Women in Technology (GSU): Awarded WIT Ambassador; recruited 50+ new members
-
-RISE in Computing: Selected as one of 50 CS/CIS students for a professional development cohort focused on technical growth
-
-Atlanta Community Food Bank: Contributed to distributing over 3,000 pounds of food during 5 volunteer events in 2025
-
-🗒️ **Certifications:**
-
-- Azure AI Fundamentals - Microsoft, August 2025
-- Machine Learning Foundations - Cornell University (online), August 2025
-- Introduction to Data Science - CISCO, February 2025
-
-📫 **Let's Connect:**
+📫 **Connect**
 
 📧 Email: givenbrown286@gmail.com
-
 💼 LinkedIn: www.linkedin.com/in/given-brown 
